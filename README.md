@@ -1,5 +1,5 @@
 # NumPy-Lab1
 
-#### Complete `NumPy-Lab1.ipynb`
+## Completed `Saleh_NumPy_Lab1.ipynb`
 
-### Good Luck
+
